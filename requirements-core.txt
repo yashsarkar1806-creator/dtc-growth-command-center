@@ -1,0 +1,7 @@
+# Lightweight install without Hugging Face models (run with USE_HF_MODELS=0)
+streamlit>=1.40
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+plotly>=5.20
+pytest>=8
